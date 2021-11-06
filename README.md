@@ -8,7 +8,7 @@
   <img alt="Css"     src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Qt" src="https://img.shields.io/badge/Qt-2ff578?logo=Qt&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/-c++-2b6bff?logo=c%2B%2B&logoColor=white&style=for-the-badge" />  
-  <img alt="MySQL" src=" https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />  
- 
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=c%2B%2B&logoColor=white&style=for-the-badge" />  
+ https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 </p>
 <!-- <img src="https://img.shields.io/badge/Laravel-ba0b25?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" /> -->
